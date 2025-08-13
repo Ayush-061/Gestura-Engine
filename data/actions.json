@@ -1,0 +1,23 @@
+[
+  {
+    "name": "switch",
+    "type": "macro",
+    "params": {
+      "keys": "alt+tab"
+    }
+  },
+  {
+    "name": "fullScreen",
+    "type": "macro",
+    "params": {
+      "keys": "f"
+    }
+  },
+  {
+    "name": "close",
+    "type": "macro",
+    "params": {
+      "keys": "alt+f4"
+    }
+  }
+]

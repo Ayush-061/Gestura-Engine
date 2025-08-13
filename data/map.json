@@ -1,0 +1,14 @@
+[
+  {
+    "sign": "thumbsUp",
+    "action": "fullScreen"
+  },
+  {
+    "sign": "palmOpen",
+    "action": "switch"
+  },
+  {
+    "sign": "ok",
+    "action": "close"
+  }
+]
